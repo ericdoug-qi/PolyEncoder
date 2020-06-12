@@ -1,4 +1,7 @@
-/.idea
+# pycharm
+.idea/
+*.iml
+*.DS_Store
 /ckpt
 /data
 draft*
